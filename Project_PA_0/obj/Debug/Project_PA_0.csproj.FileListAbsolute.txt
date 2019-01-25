@@ -1,0 +1,7 @@
+C:\Users\CCA011\source\repos\Project_PA_0\bin\Debug\Project_PA_0.exe.config
+C:\Users\CCA011\source\repos\Project_PA_0\bin\Debug\Project_PA_0.exe
+C:\Users\CCA011\source\repos\Project_PA_0\bin\Debug\Project_PA_0.pdb
+C:\Users\CCA011\source\repos\Project_PA_0\obj\Debug\Project_PA_0.csprojAssemblyReference.cache
+C:\Users\CCA011\source\repos\Project_PA_0\obj\Debug\Project_PA_0.csproj.CoreCompileInputs.cache
+C:\Users\CCA011\source\repos\Project_PA_0\obj\Debug\Project_PA_0.exe
+C:\Users\CCA011\source\repos\Project_PA_0\obj\Debug\Project_PA_0.pdb
